@@ -81,7 +81,7 @@ O jogo Pong, lançado em 1972 pela Atari, é divertido e histórico por sua sim
 ---
 
 ## 6. Referências (se houver)  
-https://cuphead.fandom.com/pt-br/wiki/escoaxo_e_sopapo
+https://cuphead.fandom.com/pt-br/wiki/Escoaxo_e_Sopapo
 
 https://cuphead.fandom.com/pt-br/wiki/Escoaxo_e_Sopapo/Galeria
 
